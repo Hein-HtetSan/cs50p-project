@@ -1,4 +1,4 @@
-# CS50P Final Project - Meda (Simple Blohg Project)
+# CS50P Final Project - Flaskr (Simple Blog Project)
 
 ## Introduction
 
