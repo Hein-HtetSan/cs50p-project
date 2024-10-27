@@ -108,6 +108,13 @@ To run the project, follow these steps:
 
     The application will be available at `http://127.0.0.1:5000/`.
 
+4. **Don't forget to init the database**
+
+    ```sh
+    flask --app flaskr init-db
+    # Initialized the database.
+    ```
+
 4. **Access the Application**:
     Open your web browser and navigate to `http://127.0.0.1:5000/` to access the blog application.
 
