@@ -1,4 +1,4 @@
-# CS50P Final Project - Meda (Simple Post Web Project)
+# CS50P Final Project - Meda (Simple Blohg Project)
 
 ## Introduction
 
